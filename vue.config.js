@@ -6,8 +6,8 @@ module.exports = {
         'common': '@/common',
         'components': '@/components',
         'network': '@/network',
-        'views': '@/views',
-        'css': 'assets/css'
+        'views': '@/pages',
+        'css': 'src/assets/css'
       }
     }
   }

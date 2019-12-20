@@ -17,6 +17,8 @@
   left: 0px;
   right: 0px;
   bottom: 0px;
+  height: 50px;
   text-align: center;
+  background: #EEE;
 }
 </style>
